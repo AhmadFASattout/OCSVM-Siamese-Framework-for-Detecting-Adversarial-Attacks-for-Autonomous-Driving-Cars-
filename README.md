@@ -1,0 +1,2 @@
+# OCSVM-Siamese-Framework-for-Detecting-Adversarial-Attacks-for-Autonomous-Driving-Cars-
+we propose a robust detection framework to secure DNN-based models, and in particular the Traffic Speed Limits recognition system of autonomous driving cars. The proposed framework utilizes the U-net model with the One-class Support Vector Machine (OCSVM) model and the Siamese network to provide two levels of security.
